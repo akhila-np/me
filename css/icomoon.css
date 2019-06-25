@@ -1155,9 +1155,12 @@
 }
 .icon-upload4:before {
   content: "\e0a8";
+  color:yellow;
+  padding-right: 8px;
 }
 .icon-download4:before {
   content: "\e0a9";
+  color:#f2f2f2;
 }
 .icon-location3:before {
   content: "\e0aa";

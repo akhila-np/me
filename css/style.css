@@ -335,6 +335,10 @@ figure {
           font-weight: 400; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
             color: #000;
+            border: 1px solid #C0C0C0;
+            background: transparent !important; }
+		   #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn1 {
+            color: #000;
             border: 1px solid #000;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
