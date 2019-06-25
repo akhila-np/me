@@ -275,7 +275,8 @@ figure {
           #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
             cursor: pointer;
             background: transparent;
-            border: 2px solid #2c98f0; }
+			color:#fff;
+            border: 2px solid #C0C0C0; }
     #colorlib-hero .flexslider .flex-direction-nav {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
